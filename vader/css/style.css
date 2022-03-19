@@ -1,0 +1,21 @@
+/*body {
+    background-image: url("../images/forest_trees_fog.jpg");
+    background-size: 100%;
+}
+*/
+#wrap {
+    margin-top: 50%;
+}
+
+#main {
+    position: relative;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+}
+
+.text_center {
+    text-align: center;
+}
